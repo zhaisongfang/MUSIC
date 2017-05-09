@@ -1,0 +1,50 @@
+id: 1-7.0-9.r9/0
+type: dir
+pred: 1-7.0.r8/1558
+count: 2
+text: 8 1314 231 0 adddeea6d25f1d0f9685cda836f4892a
+cpath: /branches/Tools
+copyfrom: 8 /trunk/Tools
+
+PLAIN
+K 5
+Tools
+V 16
+dir 1-7.0-9.r9/0
+END
+ENDREP
+id: 0-1.0.r9/206
+type: dir
+pred: 0-1.0.r1/0
+count: 1
+text: 9 157 36 0 fb37810cfef55740123dd54c4a8b1c42
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 0-1.0.r9/206
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 17
+dir 3-1.0.r8/1749
+END
+ENDREP
+id: 0.0.r9/456
+type: dir
+pred: 0.0.r8/1998
+count: 9
+text: 9 341 102 0 17acb416fa989d32a6369e7d45368b4d
+cpath: /
+copyroot: 0 /
+
+1-7._0.t8-8 add-dir false false /branches/Tools
+8 /trunk/Tools
+
+456 583

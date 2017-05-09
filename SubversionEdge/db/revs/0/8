@@ -1,0 +1,134 @@
+id: 1-4.0-8.r8/0
+type: file
+pred: 1-4.0.r4/925
+count: 1
+text: 4 0 912 1415 27125ee053ceced04f2fce4357fffd77 10c9b72ccdd7bac5b480e0e696503132e1226fa2 3-3/_3
+cpath: /trunk/Tools/SVN-user-11.txt
+copyfrom: 7 /trunk/SVN-user-11.txt
+
+id: 1-5.1-8.r8/228
+type: file
+pred: 1-5.0.r5/13088
+count: 1
+text: 5 0 13075 41472 6bc061994f4fb37be2a2e6b7678f2f1a 01efd546d344383835405dc94dffe90465d3fc11 4-4/_3
+props: 2 8221 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Tools/URL编码解码工具.exe
+copyfrom: 7 /trunk/URL编码解码工具.exe
+
+id: 1-6.2-8.r8/535
+type: file
+pred: 1-6.0.r6/279
+count: 1
+text: 6 0 266 521 10cbdac515ab2c7a77672502a1fa8584 eb19fecaff6ee8acb88833eec200c05d5c92b8c1 5-5/_3
+cpath: /trunk/Tools/jxys0820.txt
+copyfrom: 7 /trunk/jxys0820.txt
+
+id: 1-2.3-8.r8/758
+type: file
+pred: 1-2.0.r2/8287
+count: 1
+text: 2 0 8208 8191 913264c8f196c6868908ccff1728a559 d7a288fb60237e2e3241718e8be6815549ee7d36 1-1/_3
+props: 2 8221 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Tools/logo.jpg
+copyfrom: 7 /trunk/logo.jpg
+
+id: 1-3.4-8.r8/1028
+type: file
+pred: 1-3.0.r3/32531
+count: 1
+text: 3 0 32518 65536 e9d4113b89567f0329f2c904af1ab97a 64e0d1e58dc077a3c9da5c02b8154290022074db 2-2/_3
+props: 2 8221 53 0 113136892f2137aa0116093a524ade0b
+cpath: /trunk/Tools/进度条a.exe
+copyfrom: 7 /trunk/进度条a.exe
+
+PLAIN
+K 15
+SVN-user-11.txt
+V 17
+file 1-4.0-8.r8/0
+K 25
+URL编码解码工具.exe
+V 19
+file 1-5.1-8.r8/228
+K 12
+jxys0820.txt
+V 19
+file 1-6.2-8.r8/535
+K 8
+logo.jpg
+V 19
+file 1-2.3-8.r8/758
+K 14
+进度条a.exe
+V 20
+file 1-3.4-8.r8/1028
+END
+ENDREP
+id: 1-7.0.r8/1558
+type: dir
+pred: 1-7.0.r7/0
+count: 1
+text: 8 1314 231 0 adddeea6d25f1d0f9685cda836f4892a
+cpath: /trunk/Tools
+copyroot: 0 /
+
+PLAIN
+K 5
+Tools
+V 17
+dir 1-7.0.r8/1558
+END
+ENDREP
+id: 3-1.0.r8/1749
+type: dir
+pred: 3-1.0.r7/339
+count: 7
+text: 8 1699 37 0 4527da9429ec103ae39ad30f44d75bf3
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 17
+dir 3-1.0.r8/1749
+END
+ENDREP
+id: 0.0.r8/1998
+type: dir
+pred: 0.0.r7/585
+count: 8
+text: 8 1885 100 0 2de55f1aa778790fdca6ad360bd17727
+cpath: /
+copyroot: 0 /
+
+1-4.0.r4/925 delete-file false false /trunk/SVN-user-11.txt
+
+1-4._0.t7-7 add-file false false /trunk/Tools/SVN-user-11.txt
+7 /trunk/SVN-user-11.txt
+1-5._1.t7-7 add-file false false /trunk/Tools/URL编码解码工具.exe
+7 /trunk/URL编码解码工具.exe
+1-6._2.t7-7 add-file false false /trunk/Tools/jxys0820.txt
+7 /trunk/jxys0820.txt
+1-2._3.t7-7 add-file false false /trunk/Tools/logo.jpg
+7 /trunk/logo.jpg
+1-3._4.t7-7 add-file false false /trunk/Tools/进度条a.exe
+7 /trunk/进度条a.exe
+1-5.0.r5/13088 delete-file false false /trunk/URL编码解码工具.exe
+
+1-6.0.r6/279 delete-file false false /trunk/jxys0820.txt
+
+1-2.0.r2/8287 delete-file false false /trunk/logo.jpg
+
+1-3.0.r3/32531 delete-file false false /trunk/进度条a.exe
+
+
+1998 2126
